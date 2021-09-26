@@ -1,0 +1,4 @@
+- 👋 Hi, I’m mohammad alkayyali
+- 👀 I’m interested in learning web design
+- 🌱 I’m currently learning js
+- 📫 How to reach me mhmdk425@gmail.com
