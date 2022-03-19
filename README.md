@@ -1,4 +1,5 @@
 - 👋 Hi, I’m mohammad alkayyali
 - 👀 I’m interested in learning web design
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me mhmdk425@gmail.com
+- 📫 How to reach me : - mail: mhmdk425@gmail.com
+                       -linkedin : https://www.linkedin.com/in/mohammad-alkayyali-a94b30222  
