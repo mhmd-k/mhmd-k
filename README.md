@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mohammad alkayyali
 - 👀 I’m interested in learning front-end development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me : - mail: mhmdk425@gmail.com
-                       -linkedin : https://www.linkedin.com/in/mohammad-alkayyali-a94b30222  
+                        - linkedin : https://www.linkedin.com/in/mohammad-alkayyali-a94b30222  
